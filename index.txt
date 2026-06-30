@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Candra Setiawan
+Candra Setiawan
 Web developer
 
 Show Contacts
